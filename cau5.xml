@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Database>
+
+    <NENTANG>
+        <Row>
+            <MaNenTang>NT01</MaNenTang>
+            <TenNenTang>TikTok</TenNenTang>
+            <LoaiHinhNDChinh>Short Video</LoaiHinhNDChinh>
+            <HinhThucKiemTien>Affiliate, Livestream</HinhThucKiemTien>
+            <ChinhSachQC>Strict music copyright</ChinhSachQC>
+        </Row>
+
+        <Row>
+            <MaNenTang>NT02</MaNenTang>
+            <TenNenTang>YouTube</TenNenTang>
+            <LoaiHinhNDChinh>Video</LoaiHinhNDChinh>
+            <HinhThucKiemTien>Adsense, Sponsor</HinhThucKiemTien>
+            <ChinhSachQC>Kids content policy</ChinhSachQC> 
+        </Row>
+
+        <Row>
+            <MaNenTang>NT03</MaNenTang>
+            <TenNenTang>Facebook</TenNenTang>
+            <LoaiHinhNDChinh>Post, Reels</LoaiHinhNDChinh>
+            <HinhThucKiemTien>Ads, Booking</HinhThucKiemTien>
+            <ChinhSachQC>Sensitive keyword rules</ChinhSachQC>
+        </Row>
+    </NENTANG>
+
+
+    <CTQLY>
+        <Row>
+            <MaCTQLy>CT000001</MaCTQLy>
+            <TTDonVi>MCV Company</TTDonVi>
+            <NguoiLienHe>Tran Van An</NguoiLienHe>
+            <PTLienLac>Sdt</PTLienLac>
+        </Row>
+
+        <Row>
+            <MaCTQLy>CT000002</MaCTQLy>
+            <TTDonVi>Yeah1 Group</TTDonVi>
+            <NguoiLienHe>Le Thi Binh</NguoiLienHe>
+            <PTLienLac>Email</PTLienLac>
+        </Row>
+    </CTQLY>
+
+
+    <THUONGHIEU>
+        <Row>
+            <MaThuongHieu>TH001</MaThuongHieu>
+            <TenThuongHieu>Shopee</TenThuongHieu>
+            <LVKinhDoanh>Ecommerce</LVKinhDoanh>
+            <DiaChi>HCM City</DiaChi>
+            <Website>shopee.vn</Website>
+            <GhiChuDinhVi>Young customers</GhiChuDinhVi>
+        </Row>
+
+        <Row>
+            <MaThuongHieu>TH002</MaThuongHieu>
+            <TenThuongHieu>Vinamilk</TenThuongHieu>
+            <LVKinhDoanh>Dairy FMCG</LVKinhDoanh>
+            <DiaChi>HCM City</DiaChi>
+            <Website>vinamilk.vn</Website>
+            <GhiChuDinhVi>Family segment</GhiChuDinhVi>
+        </Row>
+
+        <Row>
+            <MaThuongHieu>TH003</MaThuongHieu>
+            <TenThuongHieu>Highlands Coffee</TenThuongHieu>
+            <LVKinhDoanh>F&amp;B</LVKinhDoanh>
+            <DiaChi>Ha Noi</DiaChi>
+            <Website>highlandscoffee.com</Website>
+            <GhiChuDinhVi>Young office workers</GhiChuDinhVi>
+        </Row>
+    </THUONGHIEU>
+
+    <NHANVIEN>
+    <Row>
+        <MaNhanVien>NV000001</MaNhanVien>
+        <HoTen>Hoang Anh Tai</HoTen>
+        <NgaySinh>1995-02-14</NgaySinh>
+        <ViTriCongViec>Account Manager</ViTriCongViec>
+        <Email>tai@agency.vn</Email>
+        <SDT>0911111111</SDT>
+        <PhongBan>Account</PhongBan>
+    </Row>
+
+    <Row>
+        <MaNhanVien>NV000002</MaNhanVien>
+        <HoTen>Nguyen Ngoc Trang</HoTen>
+        <NgaySinh>1998-08-30</NgaySinh>
+        <ViTriCongViec>Campaign Executive</ViTriCongViec>
+        <Email>trang@agency.vn</Email>
+        <SDT>0922222222</SDT>
+        <PhongBan>Operation</PhongBan>
+    </Row>
+
+    <Row>
+        <MaNhanVien>NV000003</MaNhanVien>
+        <HoTen>Le Minh Duc</HoTen>
+        <NgaySinh>1996-04-11</NgaySinh>
+        <ViTriCongViec>Planner</ViTriCongViec>
+        <Email>duc@agency.vn</Email>
+        <SDT>0933333333</SDT>
+        <PhongBan>Strategy</PhongBan>
+    </Row>
+</NHANVIEN>
+
+
+<KOL>
+    <Row>
+        <MaKOL>KOL00001</MaKOL>
+        <HoTen>Phung Thanh Do</HoTen>
+        <NgaySinh>12-09-1989</NgaySinh>
+        <GioiTinh>Nam</GioiTinh>
+        <Email>mixi@gmail.com</Email>
+        <SDT>0933333333</SDT>
+        <KhuVuc>Ha Noi</KhuVuc>
+        <MucDoAnhHuong>Cao</MucDoAnhHuong>
+        <MaCongTy>CT000001</MaCongTy>
+    </Row>
+
+    <Row>
+        <MaKOL>KOL00002</MaKOL>
+        <HoTen>Le Thi Bich</HoTen>
+        <NgaySinh>20-05-1999</NgaySinh>
+        <GioiTinh>Nu</GioiTinh>
+        <Email>bich@gmail.com</Email>
+        <SDT>0944444444</SDT>
+        <KhuVuc>HCM</KhuVuc>
+        <MucDoAnhHuong>Trung binh</MucDoAnhHuong>
+        <MaCongTy></MaCongTy>
+    </Row>
+
+    <Row>
+        <MaKOL>KOL00003</MaKOL>
+        <HoTen>Tran Minh Anh</HoTen>
+        <NgaySinh>11-07-1997</NgaySinh>
+        <GioiTinh>Nu</GioiTinh>
+        <Email>anh@gmail.com</Email>
+        <SDT>0955555555</SDT>
+        <KhuVuc>Da Nang</KhuVuc>
+        <MucDoAnhHuong>Thap</MucDoAnhHuong>
+        <MaCongTy></MaCongTy>
+    </Row>
+</KOL>
+
+
+<LINHVUC>
+    <Row>
+        <MaKOL>KOL00001</MaKOL>
+        <TenLV>Gaming</TenLV>
+    </Row>
+
+    <Row>
+        <MaKOL>KOL00002</MaKOL>
+        <TenLV>Beauty</TenLV>
+    </Row>
+
+    <Row>
+        <MaKOL>KOL00003</MaKOL>
+        <TenLV>Lifestyle</TenLV>
+    </Row>
+</LINHVUC>
+
+<NGUOILIENHE>
+    <Row>
+        <MaNguoiLienHe>NLH0001</MaNguoiLienHe>
+        <HoTen>Tran Tuan</HoTen>
+        <ChucVu>Marketing Manager</ChucVu>
+        <Email>tuan@shopee.vn</Email>
+        <SDT>0951111111</SDT>
+        <VaiTro>Decision Maker</VaiTro>
+        <MaThuongHieu>TH001</MaThuongHieu>
+    </Row>
+
+    <Row>
+        <MaNguoiLienHe>NLH0002</MaNguoiLienHe>
+        <HoTen>Pham Hoa</HoTen>
+        <ChucVu>Brand Executive</ChucVu>
+        <Email>hoa@vinamilk.vn</Email>
+        <SDT>0962222222</SDT>
+        <VaiTro>Responsible</VaiTro>
+        <MaThuongHieu>TH002</MaThuongHieu>
+    </Row>
+
+    <Row>
+        <MaNguoiLienHe>NLH0003</MaNguoiLienHe>
+        <HoTen>Do Anh</HoTen>
+        <ChucVu>Marketing Lead</ChucVu>
+        <Email>anh@highlands.vn</Email>
+        <SDT>0973333333</SDT>
+        <VaiTro>Decision Maker</VaiTro>
+        <MaThuongHieu>TH003</MaThuongHieu>
+    </Row>
+</NGUOILIENHE>
+
+
+<HOPDONG>
+    <Row>
+        <MaHopDong>HD01</MaHopDong>
+        <NgayKy>01-10-2023</NgayKy>
+        <NgayHieuLuc>05-10-2023</NgayHieuLuc>
+        <NgayHetHan>31-12-2023</NgayHetHan>
+        <TongGiaTri>500000000</TongGiaTri>
+        <HTThanhToan>Bank</HTThanhToan>
+        <TTThucHien>Dang hoat dong</TTThucHien>
+        <DKChinh>KPI Views</DKChinh>
+        <MaThuongHieu>TH001</MaThuongHieu>
+    </Row>
+
+    <Row>
+        <MaHopDong>HD02</MaHopDong>
+        <NgayKy>01-11-2023</NgayKy>
+        <NgayHieuLuc>05-11-2023</NgayHieuLuc>
+        <NgayHetHan>30-01-2024</NgayHetHan>
+        <TongGiaTri>250000000</TongGiaTri>
+        <HTThanhToan>Bank</HTThanhToan>
+        <TTThucHien>Tam dung</TTThucHien>
+        <DKChinh>Video Delivery</DKChinh>
+        <MaThuongHieu>TH002</MaThuongHieu>
+    </Row>
+</HOPDONG>
+
+
+<DOTTHANHTOAN>
+    <Row>
+        <MaDotTT>DT001</MaDotTT>
+        <TenDotTT>Dot 1</TenDotTT>
+        <NgayTT>10-10-2023</NgayTT>
+        <SoTien>250000000</SoTien>
+        <PTTT>Bank</PTTT>
+        <TTDoiSoat>0</TTDoiSoat>
+        <NDTT>Advance</NDTT>
+        <MaHopDong>HD01</MaHopDong>
+    </Row>
+
+    <Row>
+        <MaDotTT>DT002</MaDotTT>
+        <TenDotTT>Dot 2</TenDotTT>
+        <NgayTT>10-11-2023</NgayTT>
+        <SoTien>250000000</SoTien>
+        <PTTT>Bank</PTTT>
+        <TTDoiSoat>1</TTDoiSoat>
+        <NDTT>Final Payment</NDTT>
+        <MaHopDong>HD01</MaHopDong>
+    </Row>
+
+    <Row>
+        <MaDotTT>DT003</MaDotTT>
+        <TenDotTT>Dot 1</TenDotTT>
+        <NgayTT>05-11-2023</NgayTT>
+        <SoTien>125000000</SoTien>
+        <PTTT>Bank</PTTT>
+        <TTDoiSoat>2</TTDoiSoat>
+        <NDTT>Advance</NDTT>
+        <MaHopDong>HD02</MaHopDong>
+    </Row>
+</DOTTHANHTOAN>
+
+<CHIENDICH>
+    <CD1>
+        <MaChienDich>CD001</MaChienDich>
+        <TenChienDich>Shopee 11.11</TenChienDich>
+        <MucTieu>Increase Sales</MucTieu>
+        <NganSach>200000000</NganSach>
+        <NgayBatDau>20-10-2023</NgayBatDau>
+        <NgayKetThuc>12-11-2023</NgayKetThuc>
+        <TTTrienKhai>Da hoan thanh</TTTrienKhai>
+        <NhomKHMucTieu>Young Buyers</NhomKHMucTieu>
+        <MaHopDong>HD01</MaHopDong>
+    </CD1>
+
+    <CD2>
+        <MaChienDich>CD002</MaChienDich>
+        <TenChienDich>Vinamilk Yogurt</TenChienDich>
+        <MucTieu>Brand Awareness</MucTieu>
+        <NganSach>150000000</NganSach>
+        <NgayBatDau>15-11-2023</NgayBatDau>
+        <NgayKetThuc>15-12-2023</NgayKetThuc>
+        <TTTrienKhai>Da hoan thanh</TTTrienKhai>
+        <NhomKHMucTieu>Women 20-35</NhomKHMucTieu>
+        <MaHopDong>HD02</MaHopDong>
+    </CD2>
+</CHIENDICH>
+
+<GIAIDOAN>
+    <Row>
+        <MaChienDich>CD001</MaChienDich>
+        <TenGiaiDoan>Teasing</TenGiaiDoan>
+        <TGBatDau>20-10-2023</TGBatDau>
+        <TGKetThuc>31-10-2023</TGKetThuc>
+        <MucTieuPhu>Create Curiosity</MucTieuPhu>
+        <GhiChuThucHien>Seeding</GhiChuThucHien>
+    </Row>
+
+    <Row>
+        <MaChienDich>CD001</MaChienDich>
+        <TenGiaiDoan>Booming</TenGiaiDoan>
+        <TGBatDau>01-11-2023</TGBatDau>
+        <TGKetThuc>12-11-2023</TGKetThuc>
+        <MucTieuPhu>Push Sales</MucTieuPhu>
+        <GhiChuThucHien>KOL Video</GhiChuThucHien>
+    </Row>
+
+    <Row>
+        <MaChienDich>CD002</MaChienDich>
+        <TenGiaiDoan>Launch</TenGiaiDoan>
+        <TGBatDau>15-11-2023</TGBatDau>
+        <TGKetThuc>30-11-2023</TGKetThuc>
+        <MucTieuPhu>Brand Intro</MucTieuPhu>
+        <GhiChuThucHien>Influencer seeding</GhiChuThucHien>
+    </Row>
+</GIAIDOAN>
+
+
+<HANGMUCND>
+    <Row>
+        <MaHangMuc>HM001</MaHangMuc>
+        <NgayGiaoViec>10-10-2023</NgayGiaoViec>
+        <HanHoanThanh>20-10-2023</HanHoanThanh>
+        <ThoiDiemDangTT>25-10-2023</ThoiDiemDangTT>
+        <SLSP>1</SLSP>
+        <TTDuyetND>Da duyet</TTDuyetND>
+        <MaTK>TK01</MaTK>
+    </Row>
+
+    <Row>
+        <MaHangMuc>HM002</MaHangMuc>
+        <NgayGiaoViec>10-11-2023</NgayGiaoViec>
+        <HanHoanThanh>20-11-2023</HanHoanThanh>
+        <ThoiDiemDangTT>25-11-2023</ThoiDiemDangTT>
+        <SLSP>2</SLSP>
+        <TTDuyetND>Cho duyet</TTDuyetND>
+        <MaTK>TK02</MaTK>
+    </Row>
+
+    <Row>
+        <MaHangMuc>HM003</MaHangMuc>
+        <NgayGiaoViec>15-11-2023</NgayGiaoViec>
+        <HanHoanThanh>28-11-2023</HanHoanThanh>
+        <NgayDang>01-12-2023</NgayDang>
+        <SLSP>1</SLSP>
+        <TTDuyetND>Da duyet</TTDuyetND>
+        <MaTK>TK03</MaTK>
+    </Row>
+</HANGMUCND>
+
+
+<LOAINOIDUNG>
+    <Row>
+        <MaHangMuc>HM001</MaHangMuc>
+        <TenLoaiND>Short Review</TenLoaiND>
+        <ThoiLuongChuan>00:01:30</ThoiLuongChuan>
+        <SLKyTuDuKien>500</SLKyTuDuKien>
+        <YCHashtag>1</YCHashtag>
+        <LKMuaHang>shopee.vn/link</LKMuaHang>
+    </Row>
+
+    <Row>
+        <MaHangMuc>HM002</MaHangMuc>
+        <TenLoaiND>Vlog</TenLoaiND>
+        <ThoiLuongChuan>00:15:00</ThoiLuongChuan>
+        <SLKyTuDuKien>1000</SLKyTuDuKien>
+        <YCHashtag>1</YCHashtag>
+        <LKMuaHang>vinamilk.vn</LKMuaHang>
+    </Row>
+
+    <Row>
+        <MaHangMuc>HM003</MaHangMuc>
+        <TenLoaiND>Photo Post</TenLoaiND>
+        <ThoiLuongChuan>00:00:00</ThoiLuongChuan>
+        <SLKyTuDuKien>200</SLKyTuDuKien>
+        <YCHashtag>0</YCHashtag>
+        <LKMuaHang>highlands.vn</LKMuaHang>
+    </Row>
+</LOAINOIDUNG>
+
+<TKTRUYENTHONG>
+    <row>
+        <MaTK>TK01</MaTK>
+        <TenTK>MixiGaming</TenTK>
+        <DuongDan>youtube.com/mixi</DuongDan>
+        <NgayTao>01-01-2015</NgayTao>
+        <TrangThaiHD>Dang hoat dong</TrangThaiHD>
+        <SLFollower>7000000</SLFollower>
+        <MucDoTuongTac>Tich cuc</MucDoTuongTac>
+        <TepKhanGiaChinh>Male 18-35</TepKhanGiaChinh>
+        <MaKOL>KOL00001</MaKOL>
+        <MaNenTang>NT02</MaNenTang>
+    </row>
+    <row>
+        <MaTK>TK02</MaTK>
+        <TenTK>BichBeauty</TenTK>
+        <DuongDan>tiktok.com/bich</DuongDan>
+        <NgayTao>15-05-2020</NgayTao>
+        <TrangThaiHD>Ngung hoat dong</TrangThaiHD>
+        <SLFollower>2000000</SLFollower>
+        <MucDoTuongTac>On dinh</MucDoTuongTac>
+        <TepKhanGiaChinh>Female 18-25</TepKhanGiaChinh>
+        <MaKOL>KOL00002</MaKOL>
+        <MaNenTang>NT01</MaNenTang>
+    </row>
+    <row>
+        <MaTK>TK03</MaTK>
+        <TenTK>AnhLife</TenTK>
+        <DuongDan>facebook.com/anh</DuongDan>
+        <NgayTao>10-06-2018</NgayTao>
+        <TrangThaiHD>Tam khoa</TrangThaiHD>
+        <SLFollower>500000</SLFollower>
+        <MucDoTuongTac>Thap</MucDoTuongTac>
+        <TepKhanGiaChinh>Young adults</TepKhanGiaChinh>
+        <MaKOL>KOL00003</MaKOL>
+        <MaNenTang>NT03</MaNenTang>
+    </row>
+</TKTRUYENTHONG>
+
+<SUTHAMGIACUAKOL>
+    <row>
+        <MaKOL>KOL00001</MaKOL>
+        <MaHangMuc>HM001</MaHangMuc>
+        <MaChienDich>CD001</MaChienDich>
+        <VaiTro>Main</VaiTro>
+        <ThuLaoDuKien>100000000</ThuLaoDuKien>
+        <TTDuyet>Da duyet</TTDuyet>
+        <NgayXacNhan>15-10-2023</NgayXacNhan>
+        <MucDoUuTien>1</MucDoUuTien>
+    </row>
+    <row>
+        <MaKOL>KOL00002</MaKOL>
+        <MaHangMuc>HM002</MaHangMuc>
+        <MaChienDich>CD002</MaChienDich>
+        <VaiTro>Main</VaiTro>
+        <ThuLaoDuKien>80000000</ThuLaoDuKien>
+        <TTDuyet>Cho duyet</TTDuyet>
+        <NgayXacNhan>12-11-2023</NgayXacNhan>
+        <MucDoUuTien>1</MucDoUuTien>
+    </row>
+    <row>
+        <MaKOL>KOL00003</MaKOL>
+        <MaHangMuc>HM003</MaHangMuc>
+        <MaChienDich>CD002</MaChienDich>
+        <VaiTro>Support</VaiTro>
+        <ThuLaoDuKien>30000000</ThuLaoDuKien>
+        <TTDuyet>Tu choi</TTDuyet>
+        <NgayXacNhan>20-11-2023</NgayXacNhan>
+        <MucDoUuTien>2</MucDoUuTien>
+    </row>
+</SUTHAMGIACUAKOL>
+
+<LICHSUDUYET>
+    <row>
+        <MaLSDuyet>LSD01</MaLSDuyet>
+        <NguoiDuyet>Tran Tuan</NguoiDuyet>
+        <ThoiDiemDuyet>22-10-2023</ThoiDiemDuyet>
+        <KQDuyet>1</KQDuyet>
+        <NXChinhSua>Approved</NXChinhSua>
+        <MaHangMuc>HM001</MaHangMuc>
+    </row>
+    <row>
+        <MaLSDuyet>LSD02</MaLSDuyet>
+        <NguoiDuyet>Pham Hoa</NguoiDuyet>
+        <ThoiDiemDuyet>22-11-2023</ThoiDiemDuyet>
+        <KQDuyet>0</KQDuyet>
+        <NXChinhSua>Change Logo</NXChinhSua>
+        <MaHangMuc>HM002</MaHangMuc>
+    </row>
+</LICHSUDUYET>
+
+<CHISOHIEUQUA>
+    <row>
+        <MaCSHQ>HQ001</MaCSHQ>
+        <LuotXem>1500000</LuotXem>
+        <LuotTiepCan>1200000</LuotTiepCan>
+        <LuotThich>150000</LuotThich>
+        <LuotBinhLuan>5000</LuotBinhLuan>
+        <LuotChiaSe>2000</LuotChiaSe>
+        <LuotNhapVaoLK>30000</LuotNhapVaoLK>
+        <SoDonHang>500</SoDonHang>
+        <DoanhThuUocTinh>75000000</DoanhThuUocTinh>
+        <MaHopDong>HM001</MaHopDong>
+    </row>
+    <row>
+        <MaCSHQ>HQ002</MaCSHQ>
+        <LuotXem>800000</LuotXem>
+        <LuotTiepCan>650000</LuotTiepCan>
+        <LuotThich>70000</LuotThich>
+        <LuotBinhLuan>2500</LuotBinhLuan>
+        <LuotChiaSe>900</LuotChiaSe>
+        <LuotNhapVaoLK>12000</LuotNhapVaoLK>
+        <SoDonHang>200</SoDonHang>
+        <DoanhThuUocTinh>30000000</DoanhThuUocTinh>
+        <MaHopDong>HM003</MaHopDong>
+    </row>
+</CHISOHIEUQUA>
+
+<PHANCONG>
+    <row>
+        <MaChienDich>CD001</MaChienDich>
+        <MaNhanVien>NV000001</MaNhanVien>
+        <VaiTroCuThe>Project Manager</VaiTroCuThe>
+        <NgayPhanCong>10-10-2023</NgayPhanCong>
+        <MucDoChiuTrachNhiem>1</MucDoChiuTrachNhiem>
+    </row>
+    <row>
+        <MaChienDich>CD002</MaChienDich>
+        <MaNhanVien>NV000002</MaNhanVien>
+        <VaiTroCuThe>KOL Booker</VaiTroCuThe>
+        <NgayPhanCong>01-11-2023</NgayPhanCong>
+        <MucDoChiuTrachNhiem>2</MucDoChiuTrachNhiem>
+    </row>
+</PHANCONG>
+
+<BAOCAOCHIENDICH>
+    <row>
+        <MaBaoCao>BC001</MaBaoCao>
+        <TongChiPhi>200000000</TongChiPhi>
+        <TongLuotTiepCan>5000000</TongLuotTiepCan>
+        <TongTuongTac>300000</TongTuongTac>
+        <DoanhThuQuyDoi>600000000</DoanhThuQuyDoi>
+        <ChiSoROI>3.0</ChiSoROI>
+        <NXNhanSu>Very successful</NXNhanSu>
+        <MaChienDich>CD001</MaChienDich>
+    </row>
+    <row>
+        <MaBaoCao>BC002</MaBaoCao>
+        <TongChiPhi>150000000</TongChiPhi>
+        <TongLuotTiepCan>3200000</TongLuotTiepCan>
+        <TongTuongTac>200000</TongTuongTac>
+        <DoanhThuQuyDoi>350000000</DoanhThuQuyDoi>
+        <ChiSoROI>2.3</ChiSoROI>
+        <NXNhanSu>Good awareness</NXNhanSu>
+        <MaChienDich>CD002</MaChienDich>
+    </row>
+</BAOCAOCHIENDICH>
+
+<LICHSUTHAYDOIND>
+    <row>
+        <MaLSThayDoi>LS001</MaLSThayDoi>
+        <TGThayDoi>15-10-2023</TGThayDoi>
+        <NguoiThucHien>Hoang Tai</NguoiThucHien>
+        <NDThayDoi>Add Facebook post</NDThayDoi>
+        <LyDo>Client request</LyDo>
+        <MaHopDong>HD01</MaHopDong>
+    </row>
+    <row>
+        <MaLSThayDoi>LS002</MaLSThayDoi>
+        <TGThayDoi>10-11-2023</TGThayDoi>
+        <NguoiThucHien>Nguyen Trang</NguoiThucHien>
+        <NDThayDoi>Extend timeline</NDThayDoi>
+        <LyDo>Production delay</LyDo>
+        <MaHopDong>HD02</MaHopDong>
+    </row>
+</LICHSUTHAYDOIND>
+
+<LICHSUTRANGTHAICD>
+    <row>
+        <MaLSTrangThai>T0001</MaLSTrangThai>
+        <TGThayDoi>20-10-2023</TGThayDoi>
+        <NguoiThucHien>Hoang Tai</NguoiThucHien>
+        <NDThayDoi>Preparation -> Running</NDThayDoi>
+        <LyDo>Campaign Launch</LyDo>
+        <MaChienDich>CD001</MaChienDich>
+    </row>
+    <row>
+        <MaLSTrangThai>T0002</MaLSTrangThai>
+        <TGThayDoi>15-11-2023</TGThayDoi>
+        <NguoiThucHien>Nguyen Trang</NguoiThucHien>
+        <NDThayDoi>Preparation -> Running</NDThayDoi>
+        <LyDo>Launch</LyDo>
+        <MaChienDich>CD002</MaChienDich>
+    </row>
+</LICHSUTRANGTHAICD>
+
+</Database>

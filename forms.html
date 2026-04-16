@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms Demo</title>
+</head>
+
+<body>
+    <h1>Forms Demo</h1>
+
+    <form action="/tacos">
+        <p>
+            <label for="username">Enter a username:</label>
+            <input id="username" type="text" placeholder="username" name="username">
+        </p>
+        <p>
+            <label for="password">Enter a password</label>
+            <input id="password" type="password" placeholder="password" name="password">
+        </p>
+        <p>
+            <label for="color">Enter color:</label>
+            <input id="color" type="color" name="" color>
+        </p>
+        <p>
+            <label for="email">Enter email:</label>
+            <input id="email" type="email" placeholder="email" name="email">
+        </p>
+        <button> submit</button>
+        <!-- <button type="button">PLEASE DO NOT SUBMIT THE FORM</button> -->
+        <hr>
+        <input type="submit" value="click me">
+
+    </form>
+
+    <h2>Hijacking Searches</h2>
+    <h3>Search Reddit</h3>
+    <form action="https://www.reddit.com/search">
+        <input type="text" name="q">
+        <button>Search Red</button>
+    </form>
+    <h3>Seaarch GG</h3>
+    <form action="https://www.google.com/search">
+        <input type="text" name="q">
+        <button>Search Gg</button>
+    </form>
+
+    <h2>More Input!</h2>
+    <form action="/birds">
+        <input type="checkbox" name="agreeto" id="agree">
+        <label for="agree">I agree </label>
+        <p>
+            <label for="xs">XS:</label>
+            <input type="radio" name="size" id="xs">
+            <label for="s">S:</label>
+            <input type="radio" name="size" id="s">
+            <label for="l">L:</label>
+            <input type="radio" name="size" id="l">
+        </p>
+        <button>submit</button>
+    </form>
+
+
+</body>
+
+</html>
